@@ -1,4 +1,5 @@
-<img src="https://github.com/rajank18/rajank18/giphy.gif" width="500" alt="Alt Text">
+![Baseball Bat Swing](https://giphy.com/gifs/baseball-bat-GPNTTWzamyqrUskLko)
+
 
 <h1 align="center">Hi 👋, I'm Rajan Kanzariya</h1>
 <h3 align="center">A Developer from India</h3>
