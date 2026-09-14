@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./giphy.gif" alt="Stickman" width="500">
+  <img src="./giphy.png" alt="Stickman" width="500">
 </div>
 
 <h1 align="left">Wassup, Rajan here..</h1>
