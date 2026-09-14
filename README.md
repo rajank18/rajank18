@@ -1,4 +1,4 @@
-![Baseball Bat Swing](./giphy.gif)  HELLOO
+![Baseball Bat Swing](./giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Rajan Kanzariya</h1>
 <h3 align="center">A Developer from India</h3>
