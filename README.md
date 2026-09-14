@@ -1,4 +1,8 @@
-![Baseball Bat Swing](./giphy.gif)
+<p align="center">Stickman" width="500">
+</p>
+
+<h1 align="center">Hi 👋, I'm Rajan Kanzariya</h1>
+<h3 align="center">A Developer from India</h3>
 
 <h1 align="center">Hi 👋, I'm Rajan Kanzariya</h1>
 <h3 align="center">A Developer from India</h3>
