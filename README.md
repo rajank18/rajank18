@@ -1,11 +1,9 @@
-<p align="center">Stickman" width="500">
-</p>
+<div align="center">
+  <img src="./giphy.gif" alt="Stickman" width="500">
+</div>
 
-<h1 align="center">Hi 👋, I'm Rajan Kanzariya</h1>
-<h3 align="center">A Developer from India</h3>
-
-<h1 align="center">Hi 👋, I'm Rajan Kanzariya</h1>
-<h3 align="center">A Developer from India</h3>
+<h1 align="left">Wassup, Rajan here..</h1>
+<h3 align="right">..a dev and a creative thinker(tryin...;)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
