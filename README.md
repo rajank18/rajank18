@@ -2,8 +2,8 @@
   <img src="./giphy.png" alt="Stickman" width="500">
 </div>
 
-<h1 align="left">Wassup, Rajan here..</h1>
-<h3 align="right">..a dev and a creative thinker(tryin...;)</h3>
+<h1 align="left">Supp, Rajan here..</h1>
+<h3 align="right">..a dev & a creative thinker(tryin...;)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
