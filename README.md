@@ -9,7 +9,7 @@
       <h1>Supp, Rajan here..</h1>
       <h3>..a dev & a creative thinker(tryin...;)</h3>
       <br />
-      <h3>Connect with me:</h3>
+      <!-- <h3>Connect with me:</h3> -->
       <p>
         <a href="https://twitter.com/kanzariyarajan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanzariyarajan" height="30" width="40" /></a>
         <a href="https://linkedin.com/in/rajan-kanzariya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan kanzariya" height="30" width="40" /></a>
