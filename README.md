@@ -27,4 +27,8 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajank18)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=rajank18&theme=vue-dark" alt="GitHub Streak" />
+  </a>
+</p>
