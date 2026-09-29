@@ -7,7 +7,7 @@
     <!-- Right Column: Content -->
     <td width="50%" valign="middle">
       <h1>Supp, Rajan here..</h1>
-      <h3>..a dev & a creative thinker(tryin...;)</h3>
+      <h3>..a dev, an open source maintainer & a creative thinker(tryin...;)</h3>
       <br />
       <!-- <h3>Connect with me:</h3> -->
       <p>
