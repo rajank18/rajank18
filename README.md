@@ -7,14 +7,13 @@
     <!-- Right Column: Content -->
     <td width="50%" valign="middle">
       <h1>Supp, Rajan here..</h1>
-      <h3>..a dev, an open source maintainer & a creative thinker(tryin...;)</h3>
+      <h3>..a dev & a creative thinker(tryin...;)</h3>
       <br />
-    <p align="left">
-  <a href="https://twitter.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="kanzariyarajan" height="30" width="40" /></a>
-  <a href="https://linkedin.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="rajan kanzariya" height="30" width="40" /></a>
-  <a href="https://npmjs.com" target="blank"><img align="center" src="https://githubusercontent.com" alt="rajank18 npm" height="30" width="40" /></a>
-</p>
-
+      <h3>Connect with me:</h3>
+      <p>
+        <a href="https://twitter.com/kanzariyarajan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanzariyarajan" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/rajan-kanzariya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan kanzariya" height="30" width="40" /></a>
+      </p>
       <img src="https://komarev.com/ghpvc/?username=rajank18&color=blue&style=for-the-badge" alt="Views" />
     </td>
   </tr>
