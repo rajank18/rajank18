@@ -11,7 +11,12 @@
       <br />
       <!-- <h3>Connect with me:</h3> -->
       <p>
-        <a href="https://twitter.com/kanzariyarajan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanzariyarajan" height="30" width="40" /></a>
+        <a href="https://x.com/KanzariyaRajan" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/512px-X_logo_2023.svg.png"
+       alt="KanzariyaRajan"
+       height="30"
+       width="30" />
+</a>
         <a href="https://linkedin.com/in/rajan-kanzariya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan kanzariya" height="30" width="40" /></a>
 <a href="https://www.npmjs.com/~rajank18" target="_blank">
   <img
