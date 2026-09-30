@@ -15,7 +15,7 @@
   <img
     src="https://cdn.simpleicons.org/x/ffffff"
     alt="KanzariyaRajan"
-    height="30"
+    height="25"
     width="30"
   />
 </a>
