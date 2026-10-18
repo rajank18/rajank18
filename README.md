@@ -7,10 +7,10 @@
     <!-- Right Column: Content -->
     <td width="50%" valign="middle">
       <h1>Heyy, Rajan here..</h1>
-      <h3>..a dev, an open source maintainer & a creative thinker(tryin...;)</h3>
+      <h3>..a dev, an open-source contributor as well as a maintainer & a creative thinker(tryin...;)</h3>
       <br />
       <!-- <h3>Connect with me:</h3> -->
-      <p>
+      <p> 
         <a href="https://x.com/KanzariyaRajan" target="_blank">
   <img
     src="https://cdn.simpleicons.org/x/ffffff"
