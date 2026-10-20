@@ -30,6 +30,7 @@
 </a>
       </p>
       <img src="https://komarev.com/ghpvc/?username=rajank18&color=blue&style=for-the-badge" alt="Views" />
+      ![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
     </td>
   </tr>
 </table>
