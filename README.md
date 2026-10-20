@@ -30,7 +30,7 @@
 </a>
       </p>
       <!-- <img src="https://komarev.com/ghpvc/?username=rajank18&color=blue&style=for-the-badge" alt="Views" /> -->
-      <img src="https://arturio.dev/rajank18" alt="Profile views">
+      <img src="https://gpvc.arturio.dev/rajank18" alt="Profile views">
     </td>
   </tr>
 </table>
