@@ -29,8 +29,8 @@
   />
 </a>
       </p>
-      <!-- <img src="https://komarev.com/ghpvc/?username=rajank18&color=blue&style=for-the-badge" alt="Views" /> -->
-      <img src="https://gpvc.arturio.dev/rajank18" alt="Profile views">
+      <img src="https://komarev.com/ghpvc/?username=rajank18&color=blue&style=for-the-badge" alt="Views" />
+     
     </td>
   </tr>
 </table>
