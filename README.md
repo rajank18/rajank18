@@ -31,7 +31,6 @@
       </p>
       <img src="https://komarev.com/ghpvc/?username=rajank18&color=blue&style=for-the-badge" alt="Views" />
      
-    </td>
   </tr>
 </table>
 
